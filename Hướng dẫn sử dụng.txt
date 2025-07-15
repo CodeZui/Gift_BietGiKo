@@ -1,8 +1,0 @@
-Bước 1: Cài đặt Visual Studio Code (Nếu chưa có): https://code.visualstudio.com/download
-Bước 2: Mở Visual Studio Code -> Chọn tab Extension (hoặc Ctrl + Shift + X) để mở ô tìm kiếm Extension
-Bước 3: Tìm "Live Sever" và Install
-Bước 4: Giải nén thư mục Code (Nếu chưa)
-Bước 5: Chọn File -> chọn Open Folder -> chọn thư mục code
-Bước 6: Chọn Index.html -> Chuột phải vào cùng gõ -> chọn Open With Live Sever (hoặc bấm "Go Live" dưới gốc phải màn hình)
-------
-Nếu bạn muốn tạo thành Web để lấy link để tạo QR code thì hãy liên hệ với mình nha
